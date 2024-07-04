@@ -216,13 +216,13 @@ section {
   height: 80vh;
 }
 
-.profilepicture {
+/* .profilepicture {
   width: 350px;
   height: 350px;
   border-radius: 50%;
   object-fit: cover;
   overflow: hidden;
-}
+} */
 
 .section__pic-container {
   display: flex;
